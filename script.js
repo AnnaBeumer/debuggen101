@@ -10,9 +10,9 @@ const currentYear = new Date().getFullYear();
 for (let person of array) {
   //   console.log("Dit is de gehele persoon:", person);
   //   console.log("Dit is enkel de naam:", person.name);
-    console.log("Geboortejaar:", currentYear - person.age);
+  // console.log("Geboortejaar:", currentYear - person.age);
   //   console.log(person.name, "is een", person.profession);
-//   if (person.age >= 50) {
-//     console.log(person.name, "is ouder dan 50");
-//   }
+  //   if (person.age >= 50) {
+  //     console.log(person.name, "is ouder dan 50");
+  //   }
 }
